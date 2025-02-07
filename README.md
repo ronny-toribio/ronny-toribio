@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Current Work: Building innovative solutions in machine learning, semantic search, and serverless architectures.
-- 🌱 Currently Learning: Advanced web scraping, CAPTCHA solving, and expanding my expertise in Ruby on Rails and fullstack development.
-- 👯 Looking to Collaborate: Excited to work on data science, fullstack development, AI-driven applications, and IoT projects.
+- 🌱 Currently Learning: Advanced concepts in Machine Learning and exploring Quantum algorithms.
+- 👯 Looking to Collaborate: Excited to work on Machine Learning, AI-driven applications, and IoT projects.
 - 📫 Reach Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronny-blue)](https://www.linkedin.com/in/ronny-toribio/)
 
 ### About me
