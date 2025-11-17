@@ -10,6 +10,16 @@ I’ve worked extensively with programming languages such as Python, Typescript,
 - [Portfolio](https://ronny-toribio.github.io)
 - [Credly](https://www.credly.com/users/ronny-toribio)
 
+## AWS Cloud Quest Badges
+
+[![AWS Cloud Quest Gen AI Badge](https://images.credly.com/size/680x680/images/e3f85edd-57d4-4585-9311-7b99b3bc7a75/blob)](https://www.credly.com/badges/c164a52d-e715-4a99-a0e3-3b801e80c0de/public_url)
+
+[![AWS Cloud Quest ML Badge](https://images.credly.com/size/680x680/images/0bbd6fa0-937a-4933-9581-d25dd860bb33/blob)](https://www.credly.com/badges/4634a9ac-66a6-44e2-b677-db0decc0f87d/public_url)
+
+[![AWS Cloud Quest Data Analytics Badge](https://images.credly.com/size/680x680/images/530be67d-1ce0-46d4-8a36-3f277d5687bc/blob)](https://www.credly.com/badges/9f618435-3a8c-40e2-b5c3-98192d40882c/public_url)
+
+[![AWS Cloud Quest Cloud Practioner](https://images.credly.com/size/680x680/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/2c87503b-3eb3-4e3e-90e3-21fb4c6b12c3/public_url)
+
 ## Skills
 
 ### 🖥️ Languages
