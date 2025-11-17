@@ -7,8 +7,8 @@ I’ve worked extensively with programming languages such as Python, Typescript,
 - 🌱 Currently Learning: Advanced concepts in Machine Learning.
 - 👯 Looking to Collaborate: Excited to work on Machine Learning projects.
 - 📫 Reach Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronny-blue)](https://www.linkedin.com/in/ronny-toribio/)
-- [Portfolio](https://ronny-toribio.github.io)
-- [Credly](https://www.credly.com/users/ronny-toribio)
+- [Personal Portfolio](https://ronny-toribio.github.io)
+- [Credly Profile](https://www.credly.com/users/ronny-toribio)
 
 ## Skills
 
